@@ -1,7 +1,7 @@
 # OptimalScheduling-Artificial-Intelligence
 Local Search for scheduling of presentations and obtaining a optimal schedule
-(A.1) Problem Statement:
-========================
+## (A.1) Problem Statement:
+## ========================
 
 To search for an optimal solution for scheduling N presentation in T time slots, each having P presentations and divided into S parallel sessions. The Measure of goodness for a praticular solution or scheme is given by a function G(sh).
 
