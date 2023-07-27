@@ -43,3 +43,5 @@ The heuristic that we have attempted on is to generate a schedule that tries to 
 python P19EE003_P19EE001_MT19AI015.py input_sample.txt output.txt
 
 ** Also the zip file can be executed through the command line by changing the souce filename to "__main__.py".
+
+Status: Completed
